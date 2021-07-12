@@ -6,7 +6,7 @@ taller Semana 2 , Para LandSoft
 1. Crear una aplicación de consola.
 (https://github.com/daniels0009/Taller_2)_
 
-2.Pruebas Unitarias
+2. Pruebas Unitarias
 
 
 ![Pruebas](Prueba.PNG)
